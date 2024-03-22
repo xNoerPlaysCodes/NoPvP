@@ -1,0 +1,4 @@
+name: NoPvP
+version: '${project.version}'
+main: net.noerlol.nopvp.NoPvP
+description: Simple. No PvP!
