@@ -1,0 +1,4 @@
+name: NoPvP
+version: '1.0-SNAPSHOT'
+main: net.noerlol.nopvp.NoPvP
+description: Simple. No PvP!
